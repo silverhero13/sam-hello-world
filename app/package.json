@@ -1,7 +1,7 @@
 {
-  "name": "trigger-codebuild-on-pr-update",
+  "name": "sam-hello-world",
   "version": "1.0.0",
-  "description": "Execute a build everytime a pull request gets updated",
+  "description": "Boilerplate TypeScript code for applications developed with AWS Serverless Application Model (SAM)",
   "main": "index.js",
   "author": "John Gerald Agbayani",
   "license": "MIT",
