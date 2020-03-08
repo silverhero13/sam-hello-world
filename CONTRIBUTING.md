@@ -40,7 +40,6 @@ If applicable, a step-by-step guide on how to reproduce the issue.
 # Evidence
 
 If applicable, insert screenshots or code blocks which you think is important to aide in the investigation of the issue.
-
 ```
 
 ## Requesting features
@@ -51,5 +50,4 @@ Use the following template to request features:
 # Description
 
 A description of the feature you want to be added and the rationale behind the said feature.
-
 ```
